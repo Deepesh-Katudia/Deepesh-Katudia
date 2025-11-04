@@ -1,35 +1,126 @@
-<h1 align="center">Hi 👋, I'm Deepesh Katudia</h1>
-<h3 align="center">Software Engineer | Skilled in React, Node.js, Angular, Express, MongoDB, PostgreSQL, AWS | Proficient in JavaScript, Python, and Java</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithdeepesh29" alt="codewithdeepesh29" /></a> </p>
-
-- 🔭 I’m currently working on [Online-Job-Platform](https://github.com/Deepesh-Katudia/Online-Job-Platform)
-
-- 🌱 I’m currently learning **Angular v20.2**
-
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-website-three-kappa-36.vercel.app/](https://portfolio-website-three-kappa-36.vercel.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/deepesh-katudia-0a46a7207/](https://www.linkedin.com/in/deepesh-katudia-0a46a7207/)
-
-- 💬 Ask me about **React, Angular, Node.js, Express, MongoDB, PostgreSQL, REST APIs, AWS, CI/CD, and scalable web app development**
-
-- 📫 How to reach me **deepeshharesh.katudia@pace.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SVAmWqKQHYuenj819MV3-gtW3cRGOoj3/view?usp=drive_link](https://drive.google.com/file/d/1SVAmWqKQHYuenj819MV3-gtW3cRGOoj3/view?usp=drive_link)
-
-- ⚡ Fun fact **I talk to my code like it can hear me… and sometimes, it actually listens! 👨‍💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/deepeshkatudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepeshkatudia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepesh6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepesh6201" height="30" width="40" /></a>
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Deepesh 👋</h1>
+<p align="center">
+  <b>Software Engineer</b> — React · Angular · Node.js · Express · MongoDB · PostgreSQL · AWS
+  <br/>
+  JavaScript · TypeScript · Python · Java · C/C++
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:deepeshharesh.katudia@pace.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/deepeshkatudia">LinkedIn</a> •
+  <a href="https://portfolio-website-three-kappa-36.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/Deepesh-Katudia">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdeepesh29&show_icons=true&locale=en&layout=compact" alt="codewithdeepesh29" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepesh-Katudia&style=flat-square" alt="profile views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdeepesh29&show_icons=true&locale=en" alt="codewithdeepesh29" /></p>
+---
+
+## 🚀 About Me
+- 🎓 MS in Computer Science @ Pace University (May 2026)
+- 💼 Recent roles: **Software Developer Intern @ Superstars**, **Full-Stack Intern @ Y STEM & Chess**
+- 🧠 Passionate about interactive UIs, scalable APIs, and cloud-native deployments
+- ☁️ Experience with **AWS (EC2, S3, RDS, Lambda)**, **Azure**, **Docker**, **Nginx**, **GitHub Actions/Jenkins**
+- 💬 Ask me about **React, Angular, Node/Express, MongoDB, PostgreSQL, REST APIs, AWS, CI/CD, and scalable web apps**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`JavaScript` `TypeScript` `Python` `Java` `C/C++` `SQL`
+
+### Frontend
+`React` `Angular 20` `HTML5` `CSS3` `Tailwind CSS`
+
+### Backend & APIs
+`Node.js` `Express` `REST API Design`
+
+### Databases & ORM
+`MongoDB` `PostgreSQL` `MySQL` `Prisma ORM`
+
+### Cloud & DevOps
+`AWS (EC2 · S3 · RDS · Lambda)` `Azure` `Docker` `Nginx` `GitHub Actions` `Jenkins`
+
+### Tools
+`Git/GitHub` `VS Code` `Postman` `Figma` `Linux (Shell)`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 CodeMentor AI
+Interactive coding assistant with chat-driven help.
+- Stack: **React**, **Express**, **OpenAI API**
+- Repo: https://github.com/codewithdeepesh29/CodeMentor_AI
+
+### 🔹 Online Job Platform
+Next.js job marketplace with authentication and database integration.
+- Stack: **Next.js**, **Prisma**, **MongoDB**, **Clerk Auth**, SSR/SSG
+- Repo: https://github.com/codewithdeepesh29/Online-Job-Platform
+
+### 🔹 SightScan — Indian Currency Recognition
+Computer-vision based currency recognition with OCR TTS and object detection.
+- Stack: **Python**, **CNN**, **OCR**
+- Repo: https://github.com/codewithdeepesh29/Indian_currency_detection---Text_Detection
+
+> 💡 Tip: Pin these three repos on your profile (Profile → Customize your pins).
+
+---
+
+## 🧪 Experience Highlights
+**Superstars — Software Developer Intern (Aug 2025 – Present)**  
+- Built Angular search with People/Media/Jobs tabs, RxJS-debounced API calls, shared card components, and unified `/api/search`.
+
+**Y STEM & Chess — Full-Stack Intern (May 2025 – Aug 2025)**  
+- Delivered features in **React + Node/Express + MongoDB**, deployed on **Azure VM** with **Nginx** routing, improved performance and REST endpoints.
+
+**CodTech IT Solutions — Web Dev Intern (Jun 2024 – Jul 2024)**  
+- Built responsive pages, integrated finance APIs, optimized server load and UX.
+
+---
+
+## 📚 Publications
+- **A Techno-Cognitive Exploration: The Machination of SIGHTSCAN…** — IEEE ICAAIC 2024  
+  DOI/Record: https://ieeexplore.ieee.org/document/10575084/
+- **CogniPoseAI: A Futuristic AI-Enhanced Personal Trainer** — ICSSAS 2023  
+  Abstract: https://ieeexplore.ieee.org/abstract/document/10331759
+
+---
+
+## 💬 Ask Me About
+**React, Angular, Node.js, Express, MongoDB, PostgreSQL, REST APIs, AWS, CI/CD, and scalable web app development**
+
+---
+
+## ⚡ Fun Fact
+I talk to my code like it can hear me… and sometimes, it actually listens! 👨‍💻
+
+---
+
+## 📈 GitHub Stats
+<!-- Remove any widget you don't want -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepesh-Katudia&show_icons=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh-Katudia&layout=compact" height="150" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Deepesh-Katudia" height="150" />
+</p>
+
+---
+
+## 🤝 Connect
+- ✉️ **deepeshharesh.katudia@pace.edu**  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/deepeshkatudia  
+- 🌐 **Portfolio:** https://portfolio-website-three-kappa-36.vercel.app/
+
+---
+
+### 🧭 How to use this README
+1) Create a **public** repo named **exactly** your username: `Deepesh-Katudia`.  
+2) Add a file called `README.md`.  
+3) Paste this content and **Commit**. Done!
