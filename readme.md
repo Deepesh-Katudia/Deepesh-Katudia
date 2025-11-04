@@ -119,8 +119,3 @@ I talk to my code like it can hear me… and sometimes, it actually listens! �
 - 🌐 **Portfolio:** https://portfolio-website-three-kappa-36.vercel.app/
 
 ---
-
-### 🧭 How to use this README
-1) Create a **public** repo named **exactly** your username: `Deepesh-Katudia`.  
-2) Add a file called `README.md`.  
-3) Paste this content and **Commit**. Done!
