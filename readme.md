@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Deepesh 👋</h1>
+<h1 align="center">Hi, I'm Deepesh Katudia👋</h1>
 <p align="center">
   <b>Software Engineer</b> — React · Angular · Node.js · Express · MongoDB · PostgreSQL · AWS
   <br/>
