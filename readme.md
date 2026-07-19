@@ -1,13 +1,16 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Deepesh Katudia👋</h1>
+<h1 align="center">Hi, I'm Deepesh Katudia 👋</h1>
+
 <p align="center">
-  <b>Software Engineer</b> — React · Angular · Node.js · Express · MongoDB · PostgreSQL · AWS
-  <br/>
-  JavaScript · TypeScript · Python · Java · C/C++
+  <b>Full-Stack Software Engineer</b> · Building AI-driven applications where AI is load-bearing, not decorative
 </p>
 
 <p align="center">
-  <a href="mailto:deepeshharesh.katudia@pace.edu">Email</a> •
+  Python · TypeScript · JavaScript · React · Next.js · Node.js · FastAPI · PostgreSQL · AWS
+</p>
+
+<p align="center">
+  <a href="mailto:deepeshkatudia6201@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/deepeshkatudia">LinkedIn</a> •
   <a href="https://portfolio-website-three-kappa-36.vercel.app/">Portfolio</a> •
   <a href="https://github.com/Deepesh-Katudia">GitHub</a>
@@ -20,89 +23,119 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MS in Computer Science @ Pace University (May 2026)
-- 💼 Recent roles: **Software Developer Intern @ Superstars**, **Full-Stack Intern @ Y STEM & Chess**
-- 🧠 Passionate about interactive UIs, scalable APIs, and cloud-native deployments
-- ☁️ Experience with **AWS (EC2, S3, RDS, Lambda)**, **Azure**, **Docker**, **Nginx**, **GitHub Actions/Jenkins**
-- 💬 Ask me about **React, Angular, Node/Express, MongoDB, PostgreSQL, REST APIs, AWS, CI/CD, and scalable web apps**
+
+- 🎓 MS in Computer Science, Pace University (Graduated May 2026)
+- 💼 Most recent role: **Software Developer Intern @ Superstars** (Aug 2025 to Dec 2025)
+- 🤖 I build full-stack systems with AI at the core: LLM pipelines, multi-agent workflows, and vector search, not just API calls wrapped in a thin UI
+- ☁️ Comfortable across the stack: Python and Node backends, React and Angular frontends, cloud-native deployment on AWS and Azure
+- 📜 AWS Certified Cloud Practitioner · Two IEEE-published research papers
+- 💬 Ask me about **LLM integration, FastAPI, Next.js, real-time systems, and scalable API design**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`JavaScript` `TypeScript` `Python` `Java` `C/C++` `SQL`
+`Python` `TypeScript` `JavaScript` `Java` `C/C++` `SQL`
 
 ### Frontend
-`React` `Angular 20` `HTML5` `CSS3` `Tailwind CSS`
+`React` `Next.js` `Angular` `Tailwind CSS` `HTML5` `CSS3`
 
 ### Backend & APIs
-`Node.js` `Express` `REST API Design`
+`FastAPI` `Node.js` `Express` `Spring Boot` `REST API Design` `WebSockets`
+
+### AI & LLM
+`Claude` `OpenAI API` `Google Gemini` `OpenCLIP` `Prompt Engineering` `Embeddings & Vector Search`
 
 ### Databases & ORM
-`MongoDB` `PostgreSQL` `MySQL` `Prisma ORM`
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Prisma ORM`
 
 ### Cloud & DevOps
-`AWS (EC2 · S3 · RDS · Lambda)` `Azure` `Docker` `Nginx` `GitHub Actions` `Jenkins`
+`AWS (EC2 · S3 · RDS · Lambda)` `Azure` `Docker` `Kubernetes` `Nginx` `CI/CD`
 
 ### Tools
-`Git/GitHub` `VS Code` `Postman` `Figma` `Linux (Shell)`
+`Git/GitHub` `Claude Code` `Cursor` `VS Code` `Postman` `Figma` `Linux (Shell)`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 CodeMentor AI
-Interactive coding assistant with chat-driven help.
-- Stack: **React**, **Express**, **OpenAI API**
-- Repo: https://github.com/codewithdeepesh29/CodeMentor_AI
+### 🔹 DevSentinel
+Claude Sonnet-integrated PR review and incident triage SaaS platform.
+- Stack: **FastAPI**, **Claude API**, GitHub App webhooks, Redis pub/sub, WebSockets, Supabase Auth, Stripe
+- Repo: https://github.com/Deepesh-Katudia/DevSentinel
 
-### 🔹 Online Job Platform
-Next.js job marketplace with authentication and database integration.
-- Stack: **Next.js**, **Prisma**, **MongoDB**, **Clerk Auth**, SSR/SSG
-- Repo: https://github.com/codewithdeepesh29/Online-Job-Platform
+### 🔹 TrueFeed
+Full-stack AI fact-checking social platform. A dual-AI credibility pipeline scores every post 0 to 100 at creation time without blocking the post API.
+- Stack: **Next.js 15**, **Express v5**, **MongoDB/GridFS**, **Redis**, **Gemini + OpenAI**
+- Frontend: https://github.com/Deepesh-Katudia/truefeed-frontend
+- Backend: https://github.com/Deepesh-Katudia/truefeed_backend
 
-### 🔹 SightScan — Indian Currency Recognition
-Computer-vision based currency recognition with OCR TTS and object detection.
-- Stack: **Python**, **CNN**, **OCR**
-- Repo: https://github.com/codewithdeepesh29/Indian_currency_detection---Text_Detection
+### 🔹 TrueSight
+Hybrid image authenticity platform blending perceptual hashing (pHash) with OpenCLIP ViT-B-32 embeddings into a five-tier verdict engine.
+- Stack: **FastAPI**, **React/Vite**, **OpenCLIP**, SQLite, deployed on Vercel + Render
+- Repo: https://github.com/Deepesh-Katudia/TrueSight
 
-> 💡 Tip: Pin these three repos on your profile (Profile → Customize your pins).
+### 🔹 MCP Atlas
+Real-time observability proxy for multi-MCP AI agent systems. Intercepts tool calls, reconstructs distributed traces, detects anomalies, and streams a live dashboard.
+- Stack: **Node.js**, **Express**, **Socket.IO**, **React 19**, Cytoscape.js, Zod
+- Repo: https://github.com/Deepesh-Katudia/mcp-atlas
+
+### 🔹 VoiceOps
+Five-agent Python system for autonomous incident remediation: ingests Datadog logs, speaks summaries via ElevenLabs TTS, patches code with Gemini, and logs eval scores to Braintrust.
+- Stack: **Python**, **Google Gemini**, **ElevenLabs**, **Datadog**, Braintrust, Streamlit
+- Repo: https://github.com/Deepesh-Katudia/Self_Improving_Agent_Hackathon
+
+### 🔹 SighScan (IEEE Published)
+Offline-first Android assistive app running three on-device TFLite models to give visually impaired users real-time, audio-based environmental awareness.
+- Stack: **Python**, **TensorFlow Lite**, **CNN**, OCR, TTS, Android
+- Repo: https://github.com/Deepesh-Katudia/Indian_currency_detection---Text_Detection
+
+### More Projects
+- **CodeMentor AI** (AI coding mentor with integrated terminal): https://github.com/Deepesh-Katudia/CodeMentor_AI
+- **Online Job Platform** (role-based Next.js marketplace): https://github.com/Deepesh-Katudia/Online-Job-Platform
+- **MDBC Transform** (offline React Native MT103/NACHA to ISO 20022 converter): https://github.com/Deepesh-Katudia/MDBC-
+- **Memory Palace** (Gemini-powered CLI flashcard and quiz generator): https://github.com/Deepesh-Katudia/Memory-Palace
+
+> 💡 Tip: Pin DevSentinel, TrueFeed, and TrueSight on your profile (Profile → Customize your pins).
 
 ---
 
 ## 🧪 Experience Highlights
-**Superstars — Software Developer Intern (Aug 2025 – Present)**  
-- Built Angular search with People/Media/Jobs tabs, RxJS-debounced API calls, shared card components, and unified `/api/search`.
 
-**Y STEM & Chess — Full-Stack Intern (May 2025 – Aug 2025)**  
-- Delivered features in **React + Node/Express + MongoDB**, deployed on **Azure VM** with **Nginx** routing, improved performance and REST endpoints.
+**Superstars — Software Developer Intern (Aug 2025 to Dec 2025)**
+- Built a tab-based Angular search experience across People, Media, Jobs, and All, wiring each tab to its own backend endpoint.
+- Led a Network Discover performance fix with server-side pagination and IntersectionObserver infinite scroll, cutting initial load time by over 50% and reducing payload size by 36%.
 
-**CodTech IT Solutions — Web Dev Intern (Jun 2024 – Jul 2024)**  
-- Built responsive pages, integrated finance APIs, optimized server load and UX.
+**Y STEM & Chess Inc. — Full-Stack Developer Intern (May 2025 to Aug 2025)**
+- Built real-time chess gameplay UI in **React** backed by **Node/Express + MongoDB** and Socket.IO.
+- Migrated production routing from Apache to **Nginx** with reverse proxy and custom domain on **Azure VMs**.
+
+**K-Lon Tekno Polymers — Full-Stack Developer (Jun 2023 to Jun 2024)**
+- Built a web-based order tracking system and dashboard with **RESTful APIs** and **PostgreSQL**, reducing support queries by 33%.
+- Containerized the application with **Docker** to standardize deployment.
 
 ---
 
 ## 📚 Publications
-- **A Techno-Cognitive Exploration: The Machination of SIGHTSCAN…** — IEEE ICAAIC 2024  
-  DOI/Record: https://ieeexplore.ieee.org/document/10575084/
-- **CogniPoseAI: A Futuristic AI-Enhanced Personal Trainer** — ICSSAS 2023  
-  Abstract: https://ieeexplore.ieee.org/abstract/document/10331759
+- **A Techno-Cognitive Exploration: The Machination of SIGHTSCAN** — IEEE ICAAIC 2024
+  https://ieeexplore.ieee.org/document/10575084/
+- **CogniPoseAI: A Futuristic AI-Enhanced Personal Trainer** — ICSSAS 2023
+  https://ieeexplore.ieee.org/abstract/document/10331759
 
 ---
 
 ## 💬 Ask Me About
-**React, Angular, Node.js, Express, MongoDB, PostgreSQL, REST APIs, AWS, CI/CD, and scalable web app development**
+**LLM integration, FastAPI, Next.js, React, Node.js, real-time systems, vector search, AWS, and scalable full-stack architecture**
 
 ---
 
 ## ⚡ Fun Fact
-I talk to my code like it can hear me… and sometimes, it actually listens! 👨‍💻
+I talk to my code like it can hear me, and sometimes, it actually listens! 👨‍💻
 
 ---
 
 ## 📈 GitHub Stats
-<!-- Remove any widget you don't want -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepesh-Katudia&show_icons=true&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh-Katudia&layout=compact" height="150" />
@@ -114,8 +147,6 @@ I talk to my code like it can hear me… and sometimes, it actually listens! �
 ---
 
 ## 🤝 Connect
-- ✉️ **deepeshharesh.katudia@pace.edu**  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/deepeshkatudia  
+- ✉️ **deepeshkatudia6201@gmail.com**
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/deepeshkatudia
 - 🌐 **Portfolio:** https://portfolio-website-three-kappa-36.vercel.app/
-
----
